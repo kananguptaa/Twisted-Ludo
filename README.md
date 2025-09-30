@@ -53,4 +53,4 @@ Improved UI animations and sound effects
 
 👨‍💻 Authors
 
-Developed by [Your Name]
+Developed by Kanan Gupta
